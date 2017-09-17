@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Login Page</title>
     </head>
-    <body>
+    <body background="/OnlineBookStore/bg.jpg">
     <center><h1>Login Page</h1></center>
           <table align="center" >
               <form action="url">

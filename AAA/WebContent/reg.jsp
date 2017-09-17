@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Registration Page</title>
     </head>
-    <body>
+    <body background="bg.jpg">
     <center><h1>New User Registration Page</h1></center>
       <table align = "center">
           <form action="rushi" >

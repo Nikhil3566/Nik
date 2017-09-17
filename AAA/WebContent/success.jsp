@@ -19,7 +19,7 @@ mySession.setAttribute("currentUser", request.getParameter("username"));
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Success Registration Page</title>
     </head>
-    <body>
+    <body background="bg.jpg">
     <center>
          <h1>Welcome <% out.print(mySession.getAttribute("currentUser")); %>.. Your Registration is Successful. </h1>
         <h2> To continue shopping click <a href="home.jsp"> here</a></h1>

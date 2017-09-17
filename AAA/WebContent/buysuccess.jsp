@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-    <body>
+    <body background="bg.jpg">
         <h1>Congratulations your Order is Confirmed...!</h1>
     </body>
 </html>

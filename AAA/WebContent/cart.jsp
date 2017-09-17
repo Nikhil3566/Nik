@@ -11,6 +11,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<body background="bg.jpg">
 <form action="cart">
 	<%
 		String bookId = request.getParameter("id");
