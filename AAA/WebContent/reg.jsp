@@ -12,7 +12,7 @@
         <title>Registration Page</title>
     </head>
     <body background="bg.jpg">
-    <center><h1>New User Registration Page</h1></center>
+    <center><h1>New User?? Register Here!!</h1></center>
       <table align = "center">
           <form action="rushi" >
                 <tr>

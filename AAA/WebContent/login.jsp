@@ -12,8 +12,8 @@
         <title>Login Page</title>
     </head>
     <body background="/OnlineBookStore/bg.jpg">
-    <center><h1>Login Page</h1></center>
-          <table align="center" >
+    <center><h1>Already a member? Login to continue!</h1>
+          <table>
               <form action="url">
                <tr>
                    <td>User Name</td>
@@ -28,9 +28,11 @@
                     <td align="center" colspan="2">
                     <input type="submit" value="LogIn"/> 
               
-                           <td><a href="reg.jsp">New User</a> </td>
                        </tr>
            </form>
        </table>
+       <h3>OR</h3>
+       </center>
     </body>
+    <jsp:include page="reg.jsp" />
 </html>
